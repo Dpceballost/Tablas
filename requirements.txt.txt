@@ -6,4 +6,6 @@ gunicorn
 
 plotly
 
-dash bootsrap components
+dash_bootsrap_components
+
+matplot
